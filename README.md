@@ -1,2 +1,2 @@
-# genetic-algorithm
+# Genetic Algorithm
 A C++ based genetic algorithm.
